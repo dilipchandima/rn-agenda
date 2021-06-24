@@ -1,0 +1,30 @@
+{
+  "name": "rn-agenda",
+  "version": "1.0.0",
+  "description": "React Native agenda component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dilipchandima/rn-agenda.git"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "react",
+    "native",
+    "calender",
+    "agenda"
+  ],
+  "author": "Dileepa Chandima",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dilipchandima/rn-agenda/issues"
+  },
+  "homepage": "https://github.com/dilipchandima/rn-agenda#readme",
+  "devDependencies": {
+    "metro-react-native-babel-preset": "^0.66.0"
+  }
+}
